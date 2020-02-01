@@ -29,7 +29,7 @@ class App extends Component {
           </div>
 
           <div className='completed-goal-list-container'>
-            <h3>Complete Goal List</h3>
+            <h3>Completed Task List</h3>
             <CompleteGoalList />
           </div>
         </div>
